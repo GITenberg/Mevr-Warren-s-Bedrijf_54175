@@ -1,0 +1,37 @@
+_repo: Mevr-Warren-s-Bedrijf_54175
+_version: 0.0.1
+alternative_title: Mrs. Warren's profession. Dutch
+contributor:
+  translator:
+    agent_name: Simons-Mees, J. A.
+    gutenberg_agent_id: '47749'
+    url: http://www.gutenberg.org/2009/agents/47749
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    aliases:
+    - Shaw, Bernhard
+    - Shaw, George Bernard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: ''
+gutenberg_issued: '2017-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54175'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prostitutes -- Great Britain -- Drama'
+- !lcsh 'Great Britain -- Social conditions -- 19th century -- Drama'
+- !lcsh 'Prostitution -- Great Britain -- Drama'
+- !lcc 'PR'
+- !lcsh 'Working class women -- Great Britain -- Drama'
+- GITenberg
+title: Mevr. Warren's Bedrijf
+url: http://www.gutenberg.org/ebooks/54175
