@@ -1,11 +1,14 @@
 _repo: Mevr-Warren-s-Bedrijf_54175
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Mrs. Warren's profession. Dutch
 contributor:
   translator:
     agent_name: Simons-Mees, J. A.
     gutenberg_agent_id: '47749'
     url: http://www.gutenberg.org/2009/agents/47749
+covers:
+- cover_type: archival
+  image_path: 54175-h/images/cover.jpg
 creator:
   author:
     agent_name: Shaw, Bernard
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/467
     wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54175#Mevr-Warren-s-Bedrijf
 gutenberg_issued: '2017-02-16'
 gutenberg_type: Text
 identifiers:
